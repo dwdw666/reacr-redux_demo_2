@@ -1,3 +1,6 @@
+### `npm install react`
+### `npm install react-redux`
+
 ### `npm start`
 
 Runs the app in the development mode.\
